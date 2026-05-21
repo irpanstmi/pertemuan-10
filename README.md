@@ -1,1 +1,3 @@
-# pertemuan-10
+nama ipan
+nim 1324090
+sppg 
